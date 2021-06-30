@@ -2,10 +2,10 @@ const express = require("express");
 const cors = require("cors");
 const app = express();
 
-const {} = require("./serverController.js")
+// const {} = require("./serverController.js")
 
 app.use(cors());
-app.use(express.json());
+// app.use(express.json());
 
 
 
